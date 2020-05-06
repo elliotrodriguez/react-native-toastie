@@ -10,7 +10,6 @@
 
 // overriding the main init method, which also means
 // implementing requireMainQueueSetup to run on main thread
-// why do we need this if we are returning it fromdispatch?
 -(instancetype) init {
     self = [super init];
     if (self) {
