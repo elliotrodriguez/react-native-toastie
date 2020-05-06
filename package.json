@@ -1,0 +1,26 @@
+{
+  "name": "react-native-toastie",
+  "version": "1.0.0",
+  "description": "a Toast type notification component for iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Elliot Rodriguez",
+  "license": "MIT",
+  "devDependencies": {
+    "react-native": "0.61.3"
+  },
+  "peerDependencies": {
+    "react-native": "^0.61.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://elliotrodriguez@github.com/elliotrodriguez/react-native-toastie.git"
+  },
+  "homepage": "https://elliotrodriguez@github.com/elliotrodriguez/react-native-toastie.git",
+  "version": "1.1.0"
+}
