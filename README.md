@@ -1,5 +1,5 @@
 
-# react-native-react-native-toastie
+# react-native-toastie
 
 ## coming soon
 ```
