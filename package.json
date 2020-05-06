@@ -1,6 +1,6 @@
 {
   "name": "react-native-toastie",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "a Toast type notification component for iOS",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "author": "Elliot Rodriguez",
   "license": "MIT",
   "devDependencies": {
-    "react-native": "^0.62.2"
+    "react-native": "^0.61.3"
   },
   "peerDependencies": {
     "react-native": "^0.61.3"

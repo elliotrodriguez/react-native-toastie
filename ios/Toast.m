@@ -24,7 +24,7 @@ static double const DEFAULT_TOAST_DURATION_SECONDS = 3.5;
     UIViewController *rootVC = [[UIViewController alloc] init];
     
     // if no viewcontroller or window, just return
-    if (rootVC == nil || window || nil) {
+    if (rootVC == nil || window == nil) {
         return;
     }
     
