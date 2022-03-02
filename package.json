@@ -12,10 +12,10 @@
   "author": "Elliot Rodriguez",
   "license": "MIT",
   "devDependencies": {
-    "react-native": "^0.61.3"
+    "react-native": "^0.62.3"
   },
   "peerDependencies": {
-    "react-native": "^0.61.3"
+    "react-native": "^0.62.3"
   },
   "repository": {
     "type": "git",
